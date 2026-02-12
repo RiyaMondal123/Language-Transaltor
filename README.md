@@ -1,4 +1,4 @@
 # Language-Translator
 
 - Results:
-![](https://github.com/sovanshit/Language-Translator/blob/main/Language-Translator/Result.png)
+![](https://github.com/RiyaMondal123/Language-Transaltor/blob/main/Language-Translator/Result.png)
